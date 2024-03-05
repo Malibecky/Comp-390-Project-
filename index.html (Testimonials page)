@@ -39,11 +39,11 @@ Click nbfs://nbhost/SystemFileSystem/Templates/JSP_Servlet/Html.html to edit thi
         .testimonial p {
             margin: 0;
         }
-        footer {
-            background-color: #1A2238;
+         footer {
+            background-color: #3e70a8;
             color: #fff;
-            padding: 20px;
             text-align: center;
+            padding: 10px 0;
             position: fixed;
             bottom: 0;
             width: 100%;
